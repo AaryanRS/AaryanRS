@@ -14,6 +14,7 @@ Passionate about building LLM models and contributing to open source.
 - 5 years of experience in Python  
 - Knowledge of Node.js, C++, and UI/UX  
 - Leveraging AI tools for automation, development, and research  
+- Build LLM'S and n8n for Full Stack Projects
 
 ## 📫 How to Reach Me
 You can connect with me on Instagram, Discord, or any platform you prefer — I’m active across communities.
