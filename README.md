@@ -1,25 +1,46 @@
-# AI Engineer | Open Source Contributor | Python Enthusiast
+\# Open Source Contributor | Python Enthusiast | Passionate Learner
 
-## 👨‍💻 Who I Am
+
+
+\## 👨‍💻 Who I Am
+
 Hi, I'm Aaryan Shelar from India.  
-I’m an AI engineer currently pursuing my B.Tech at Nxtwave.  
-Passionate about building LLM models and contributing to open source.
 
-## 🔭 What I’m Working On
-- Developing AI/ML projects  
-- Exploring large language models  
-- Open source contributions  
+I'm an AI engineering student currently pursuing my B.Tech in CSE (AI/ML).  
 
-## 🛠️ Tools & Skills
-- 5 years of experience in Python  
-- Knowledge of Node.js, C++, and UI/UX  
-- Leveraging AI tools for automation, development, and research  
-- Build LLM'S and n8n for Full Stack Projects
+Passionate about AI tools, programming languages and Open‑Source Contributions, especially in AI and Visualization.
 
-## 📫 How to Reach Me
-You can connect with me on Instagram, Discord, or any platform you prefer — I’m active across communities.
 
-## ⚡ Fun Facts
-- I love psychology, especially human understanding and behavior  
-- Passionate reader of novels, self‑help books, and *Vibe Coding*  
-- Curious about how mindset shapes coding and creativity
+
+\## 🔭 What I'm Working On
+
+\- \*\*FURY\*\* – Contributing to a free and open‑source Python library for scientific visualization.  
+
+\- \*\*Healing Stones\*\* – Contributing to an AI‑driven project for reconstructing fragmented cultural heritage artifacts.
+
+
+
+\## 🛠️ Tools \& Skills
+
+\- \*\*Languages:\*\* Python (5+ years), C++, Node.js, Express.js, UI/UX Designing
+
+\- \*\*Technical:\*\* LLMs, n8n, prompt engineering  
+
+\- \*\*Tools:\*\* GitHub for version control and collaboration; experienced with Claude-Skills, Codex, Qoder, and Copilot for AI‑assisted development
+
+
+
+\## 📫 How to Reach Me
+
+Active on Instagram, Discord, and other communities — feel free to connect!
+
+
+
+\## ⚡ Fun Facts
+
+\- I love psychology, especially human understanding and behavior
+
+\- Passionate reader of novels, self-help books, and \*I enjoy Vibe Coding\*
+
+\- Curious about how mindset shapes coding and creativity
+
