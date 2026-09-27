@@ -4,6 +4,7 @@
 
 ## 👨‍💻 Who I Am
 
+
 Hi, I'm Aaryan Shelar from India.  
 
 I'm an AI engineering student currently pursuing my B.Tech in CSE (AI/ML).  
@@ -14,6 +15,7 @@ Passionate about AI tools, programming languages and Open‑Source Contributions
 
 ## 🔭 What I'm Working On
 
+
 - **FURY** – Contributing to a free and open‑source Python library for scientific visualization.  
 
 - **Healing Stones** – Contributing to an AI‑driven project for reconstructing fragmented cultural heritage artifacts.
@@ -21,6 +23,7 @@ Passionate about AI tools, programming languages and Open‑Source Contributions
 
 
 ## 🛠️ Tools \& Skills
+
 
 - **Languages:** Python (5+ years), C++, Node.js, Express.js, UI/UX Designing
 
@@ -31,6 +34,7 @@ Passionate about AI tools, programming languages and Open‑Source Contributions
 
 
 ## 📫 How to Reach Me
+
 
 Active on Instagram, Discord, and other communities — feel free to connect!
 
