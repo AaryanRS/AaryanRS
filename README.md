@@ -6,9 +6,9 @@
 
 
 
-Hi, I'm Aaryan Shelar from India.  
-I'm an AI engineering student currently pursuing my B.Tech in CSE (AI/ML).  
-Passionate about AI tools, programming languages and Open‑Source Contributions, especially in AI and Visualization.
+  Hi, I'm Aaryan Shelar from India.  
+  I'm an AI engineering student currently pursuing my B.Tech in CSE (AI/ML).  
+  Passionate about AI tools, programming languages and Open‑Source Contributions, especially in AI and Visualization.
 
 
 
@@ -39,7 +39,7 @@ Passionate about AI tools, programming languages and Open‑Source Contributions
 
 
 
-Active on Instagram, Discord, and other communities — feel free to connect!
+    Active on Instagram, Discord, and other communities — feel free to connect!
 
 
 
