@@ -39,7 +39,7 @@
 
 
 
-  Active on Instagram, Discord, and other communities — feel free to connect!
+  I am Active on Instagram, Discord, and all other communities — feel free to connect!
 
 
 
