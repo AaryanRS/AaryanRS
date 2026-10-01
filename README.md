@@ -1,5 +1,5 @@
 
-**`AI/ML ENGINEER | DATA SCIENTIST | OPEN-SOURCE CONTRIBUTOR`** 🕊️
+### **`AI/ML ENGINEER | DATA SCIENTIST | OPEN-SOURCE CONTRIBUTOR`** 🕊️
 
 ---
 
@@ -7,7 +7,7 @@ Hello... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing
 
 ---
 
-### Language and Skill Mastery
+### **`Languages and Skills`**
 
 ![Python](https://img.shields.io/badge/Python-FFFFF0?style=for-the-badge&logo=python&logoColor=000000)
 ![C++](https://img.shields.io/badge/C++-FFFFF0?style=for-the-badge&logo=cplusplus&logoColor=000000)
@@ -17,7 +17,27 @@ Hello... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing
 
 ---
 
-### Tools Mastery
+### **`Frameworks and Libraries`**
+
+![NumPy](https://img.shields.io/badge/NumPy-FFFFF0?style=for-the-badge&logo=numpy&logoColor=000000)
+![SymPy](https://img.shields.io/badge/SymPy-FFFFF0?style=for-the-badge&logo=sympy&logoColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFF0?style=for-the-badge&logo=pytorch&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-FFFFF0?style=for-the-badge&logo=flask&logoColor=000000)
+![React](https://img.shields.io/badge/React-FFFFF0?style=for-the-badge&logo=react&logoColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFF0?style=for-the-badge&logo=express&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=for-the-badge&logo=node.js&logoColor=000000)
+
+---
+
+### **`DataBases/Cloud`**
+
+![SQLite](https://img.shields.io/badge/SQLite-FFFFF0?style=for-the-badge&logo=sqlite&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFF0?style=for-the-badge&logo=mysql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFF0?style=for-the-badge&logo=mongodb&logoColor=000000)
+
+---
+
+### **`Tools Mastery`**
 
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFF0?style=for-the-badge&logo=github&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-FFFFF0?style=for-the-badge&logo=git&logoColor=000000)
@@ -26,8 +46,6 @@ Hello... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing
 ![Codex](https://img.shields.io/badge/Codex-FFFFF0?style=for-the-badge&logo=openai&logoColor=000000)
 ![Claude](https://img.shields.io/badge/Claude-FFFFF0?style=for-the-badge&logo=anthropic&logoColor=000000)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FFFFF0?style=for-the-badge&logo=apachespark&logoColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFF0?style=for-the-badge&logo=express&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=for-the-badge&logo=node.js&logoColor=000000)
-![React.js](https://img.shields.io/badge/React.js-FFFFF0?style=for-the-badge&logo=react&logoColor=000000)
 
 ### MORE WORK IN PROGRESS
+
