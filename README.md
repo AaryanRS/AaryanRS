@@ -6,7 +6,7 @@
 
 ---
 
-
+ 
 ### **`Languages and Skills`**
 
 ![Python](https://img.shields.io/badge/Python-FFFFF0?style=flat&logo=python&logoColor=000000)
