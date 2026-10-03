@@ -2,7 +2,7 @@
 
 ---
 
-🌿 𝑯𝒆𝒍𝒍𝒐 🌿... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing my B.Tech in Computer Science with a focus on 𝗔𝗜/𝗠𝗟. I’m passionate about open‑source contributions and see them as a way to learn, share, and grow with the community. My goal is to become an AI/ML Engineer and Data Scientist, and right now I’m fully immersed in my 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕮𝖚𝖗𝖛𝖊 — exploring Machine Learning and Deep Learning, experimenting with projects, and contributing to Open‑Source ecosystems to sharpen my Skills. Beyond code, I’m a passionate reader of 𝓝𝓸𝓿𝓮𝓵𝓼 and 𝓑𝓸𝓸𝓴𝓼, and I love the process of learning and implementing new 𝕀𝕕𝕖𝕒𝕤. For me, Curiosity and Creativity go hand in hand, whether it’s in reading stories or writing code, and that’s what drives me forward..
+🌿 𝑯𝒆𝒍𝒍𝒐 🌿... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing my B.Tech in Computer Science with a focus on 𝗔𝗜/𝗠𝗟. I’m passionate about open‑source contributions and see them as a way to learn, share, and grow with the community. My goal is to become an AI/ML Engineer and Data Scientist, and right now I’m fully immersed in my 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕮𝖚𝖗𝖛𝖊 — exploring Machine Learning and Deep Learning, experimenting with projects, and contributing to Open‑Source ecosystems to sharpen my Skills. Beyond code, I’m a passionate reader of 𝓝𝓸𝓿𝓮𝓵𝓼 and 𝓑𝓸𝓸𝓴𝓼, and I love the process of learning and implementing new 𝕀𝕕𝕖𝕒𝕤. For me, Curiosity and Creativity go hand in hand, whether it’s in reading stories or writing code, and that’s what drives me FFForward..
 
 ---
 
@@ -16,17 +16,7 @@
 
 ---
 
-### **`Frameworks and Libraries`**
 
-![NumPy](https://img.shields.io/badge/NumPy-FFFFF0?style=flat&logo=numpy&logoColor=000000)
-![SymPy](https://img.shields.io/badge/SymPy-FFFFF0?style=flat&logo=sympy&logoColor=000000)
-![PyTorch](https://img.shields.io/badge/PyTorch-FFFFF0?style=flat&logo=pytorch&logoColor=000000)
-![Flask](https://img.shields.io/badge/Flask-FFFFF0?style=flat&logo=flask&logoColor=000000)
-![React](https://img.shields.io/badge/React-FFFFF0?style=flat&logo=react&logoColor=000000)
-![Express.js](https://img.shields.io/badge/Express.js-FFFFF0?style=flat&logo=express&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=flat&logo=node.js&logoColor=000000)
-
----
 
 ### **`Databases/Cloud`**
 
@@ -48,4 +38,31 @@
 
 ---
 
-### MORE WORK IN PROGRESS
+### **`Frameworks and Libraries`**
+
+![NumPy](https://img.shields.io/badge/NumPy-FFFFF0?style=flat&logo=numpy&logoColor=000000)
+![SymPy](https://img.shields.io/badge/SymPy-FFFFF0?style=flat&logo=sympy&logoColor=000000)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFFFF0?style=flat&logo=pytorch&logoColor=000000)
+![Flask](https://img.shields.io/badge/Flask-FFFFF0?style=flat&logo=flask&logoColor=000000)
+![React](https://img.shields.io/badge/React-FFFFF0?style=flat&logo=react&logoColor=000000)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFF0?style=flat&logo=express&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=flat&logo=node.js&logoColor=000000)
+
+---
+---
+
+<div align="center" >
+<a href="https://github.com/AaryanRS">
+
+<img src="https://raw.githubusercontent.com/AaryanRS/profile-summary-cards/master/profile-summary-card-output/solarized/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/AaryanRS/profile-summary-cards/master/profile-summary-card-output/solarized/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/AaryanRS/profile-summary-cards/master/profile-summary-card-output/solarized/2-most-commit-language.svg" width="32.5%">
+
+</a>
+</div>
+
+
+---
+---
+
+
