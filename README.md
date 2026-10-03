@@ -54,9 +54,11 @@
 <div align="center" >
 <a href="https://github.com/AaryanRS">
 
-<img src="https://raw.githubusercontent.com/AaryanRS/profile-summary-cards/master/profile-summary-card-output/solarized/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/AaryanRS/profile-summary-cards/master/profile-summary-card-output/solarized/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/AaryanRS/profile-summary-cards/master/profile-summary-card-output/solarized/2-most-commit-language.svg" width="32.5%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AaryanRS/AaryanRS/main/profile-summary-card-output/solarized/3-stats.svg" width="32%">
+  <img src="https://raw.githubusercontent.com/AaryanRS/AaryanRS/main/profile-summary-card-output/solarized/1-repos-per-language.svg" width="32%">
+  <img src="https://raw.githubusercontent.com/AaryanRS/AaryanRS/main/profile-summary-card-output/solarized/2-most-commit-language.svg" width="32%">
+</div>
 
 </a>
 </div>
