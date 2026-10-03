@@ -1,10 +1,11 @@
-### **`AI/ML ENGINEER | DATA SCIENTIST | OPEN-SOURCE CONTRIBUTOR`** 🕊️
+##  **`AI/ML ENGINEER | DATA SCIENTIST | OPEN-SOURCE CONTRIBUTOR`** 🕊️
 
 ---
 
 🌿 𝑯𝒆𝒍𝒍𝒐 🌿... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing my B.Tech in Computer Science with a focus on 𝗔𝗜/𝗠𝗟. I’m passionate about open‑source contributions and see them as a way to learn, share, and grow with the community. My goal is to become an AI/ML Engineer and Data Scientist, and right now I’m fully immersed in my 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝕮𝖚𝖗𝖛𝖊 — exploring Machine Learning and Deep Learning, experimenting with projects, and contributing to Open‑Source ecosystems to sharpen my Skills. Beyond code, I’m a passionate reader of 𝓝𝓸𝓿𝓮𝓵𝓼 and 𝓑𝓸𝓸𝓴𝓼, and I love the process of learning and implementing new 𝕀𝕕𝕖𝕒𝕤. For me, Curiosity and Creativity go hand in hand, whether it’s in reading stories or writing code, and that’s what drives me FFForward..
 
 ---
+
 
 ### **`Languages and Skills`**
 
@@ -15,8 +16,6 @@
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FFFFF0?style=flat&logo=figma&logoColor=000000)
 
 ---
-
-
 
 ### **`Databases/Cloud`**
 
@@ -47,6 +46,42 @@
 ![React](https://img.shields.io/badge/React-FFFFF0?style=flat&logo=react&logoColor=000000)
 ![Express.js](https://img.shields.io/badge/Express.js-FFFFF0?style=flat&logo=express&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=flat&logo=node.js&logoColor=000000)
+
+---
+---
+
+## **`FEATURED PROJECTS`** 🛠️
+
+- [LeetCode Solutions Repo](https://github.com/AaryanRS/LeetCode-Solutions)  
+  📘 A curated collection of my problem‑solving journey, synced automatically with solutions.
+- [Healing Stones Contribution](https://github.com/AaryanRS/Healing-Stones)  
+  💎 Open‑source contribution focused on AI/ML features and collaborative development.
+- [SymPy Contributions](https://github.com/sympy/sympy)  
+  🔢 Work on symbolic mathematics in Python, exploring computational algebra.
+- [ilastik ML Imaging](https://github.com/ilastik/ilastik)  
+  🖼️ Contributions to machine learning for image analysis and segmentation.
+- [Ceph Ecosystem Exploration](https://github.com/ceph/ceph)  
+  ☁️ Diving into distributed storage systems and open‑source infrastructure.
+
+
+---
+---
+
+
+## **`OPEN-SOURCE CONTRIBUTIONS`** 🌿
+
+- [Open-Source Contributions Repo](https://github.com/AaryanRS/open-source-contributions)  
+  A dedicated repository where I document all my open-source work. It includes the open-source programs I’ve contributed to such as **`Python`**, **`SymPy`**, and **`HumanAI`** — along with the issues I’ve solved, PRs merged, and discussions that helped close Issues.
+
+<div align="center">
+
+[![SymPy](https://img.shields.io/badge/SymPy-FFD700?style=for-the-badge&logo=sympy&logoColor=000000)](https://www.sympy.org)
+[![HumanAI](https://img.shields.io/badge/HumanAI-90EE90?style=for-the-badge&logo=brain&logoColor=000000)](https://humanai.foundation)
+[![Fury](https://img.shields.io/badge/Fury-FF6347?style=for-the-badge&logo=furaffinity&logoColor=000000)](https://fury.gl)
+[![ilastik](https://img.shields.io/badge/ilastik-87CEEB?style=for-the-badge&logo=ilastik&logoColor=000000)](https://www.ilastik.org)
+
+</div>
+
 
 ---
 ---
