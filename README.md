@@ -2,7 +2,7 @@
 
 ---
 
-Hello... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing my B.Tech in Computer Science with a focus on AI/ML. I’m passionate about open‑source contributions and see them as a way to learn, share, and grow with the community. My goal is to become an AI/ML engineer and data scientist, and right now I’m fully immersed in my learning curve — exploring machine learning and deep learning, experimenting with projects, and contributing to open‑source ecosystems to sharpen my skills. Beyond code, I’m a passionate reader of novels and books, and I love the process of learning and implementing new ideas. For me, curiosity and creativity go hand in hand, whether it’s in reading stories or writing code, and that’s what drives me forward..
+🌿 𝑯𝒆𝒍𝒍𝒐 🌿... I’m 𝔸𝔸ℝ𝕐𝔸ℕ 𝕊ℍ𝔼𝕃𝔸ℝ, currently pursuing my B.Tech in Computer Science with a focus on AI/ML. I’m passionate about open‑source contributions and see them as a way to learn, share, and grow with the community. My goal is to become an AI/ML engineer and data scientist, and right now I’m fully immersed in my learning curve — exploring machine learning and deep learning, experimenting with projects, and contributing to open‑source ecosystems to sharpen my skills. Beyond code, I’m a passionate reader of novels and books, and I love the process of learning and implementing new ideas. For me, curiosity and creativity go hand in hand, whether it’s in reading stories or writing code, and that’s what drives me forward..
 
 ---
 
