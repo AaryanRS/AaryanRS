@@ -34,7 +34,7 @@
 ![Codex](https://img.shields.io/badge/Codex-FFFFF0?style=flat&logo=openai&logoColor=000000)
 ![Claude](https://img.shields.io/badge/Claude-FFFFF0?style=flat&logo=anthropic&logoColor=000000)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FFFFF0?style=flat&logo=apachespark&logoColor=000000)
-![Stitch](https://img.shields.io/badge/Stitch-FF0000?style=flat&logo=stitcher&logoColor=white)
+![Stitch](https://img.shields.io/badge/Stitch-FFFFF0?style=flat&logo=stitcher&logoColor=000000)
 
 ---
 
@@ -42,7 +42,7 @@
 
 ![NumPy](https://img.shields.io/badge/NumPy-FFFFF0?style=flat&logo=numpy&logoColor=000000)
 ![SymPy](https://img.shields.io/badge/SymPy-FFFFF0?style=flat&logo=sympy&logoColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFF0?style=flat&logo=pandas&logoColor=000000)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFFFF0?style=flat&logo=pytorch&logoColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-FFFFF0?style=flat&logo=flask&logoColor=000000)
 ![React](https://img.shields.io/badge/React-FFFFF0?style=flat&logo=react&logoColor=000000)
