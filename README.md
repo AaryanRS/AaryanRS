@@ -73,17 +73,16 @@
 ## **`OPEN-SOURCE CONTRIBUTIONS`** 🌿
 
 - [Open-Source Contributions Repo](https://github.com/AaryanRS/open-source-contributions)  
-  A dedicated repository where I document all my open-source work. It includes the open-source programs I’ve contributed to such as **`Python`**, **`SymPy`**, and **`HumanAI`** — along with the issues I’ve solved, PRs merged, and discussions that helped close Issues.
+  A dedicated repository where I document all my open-source work. It includes the open-source programs I’ve contributed to such as **`Fury`**, **`ilastik`**, and **`HumanAI`** — along with the issues I’ve solved, PRs merged, and discussions that helped close Issues.
   
 
 <div align="center">
 
 Tap any button below to explore the official website of the respective open‑source org 👇
 
-[![SymPy](https://img.shields.io/badge/SymPy-FFD700?style=for-the-badge&logo=sympy&logoColor=000000)](https://www.sympy.org)
-[![HumanAI](https://img.shields.io/badge/HumanAI-90EE90?style=for-the-badge&logo=brain&logoColor=000000)](https://humanai.foundation)
 [![Fury](https://img.shields.io/badge/Fury-FF6347?style=for-the-badge&logo=furaffinity&logoColor=000000)](https://fury.gl)
 [![ilastik](https://img.shields.io/badge/ilastik-87CEEB?style=for-the-badge&logo=ilastik&logoColor=000000)](https://www.ilastik.org)
+[![HumanAI](https://img.shields.io/badge/HumanAI-90EE90?style=for-the-badge&logo=brain&logoColor=000000)](https://humanai.foundation)
 
 </div>
 
