@@ -54,17 +54,10 @@
 
 ## **`FEATURED PROJECTS`** 🛠️
 
-- [LeetCode Solutions Repo](https://github.com/AaryanRS/LeetCode-Solutions)  
-  📘 A curated collection of my problem‑solving journey, synced automatically with solutions.
-- [Healing Stones Contribution](https://github.com/AaryanRS/Healing-Stones)  
-  💎 Open‑source contribution focused on AI/ML features and collaborative development.
-- [SymPy Contributions](https://github.com/sympy/sympy)  
-  🔢 Work on symbolic mathematics in Python, exploring computational algebra.
-- [ilastik ML Imaging](https://github.com/ilastik/ilastik)  
-  🖼️ Contributions to machine learning for image analysis and segmentation.
-- [Ceph Ecosystem Exploration](https://github.com/ceph/ceph)  
-  ☁️ Diving into distributed storage systems and open‑source infrastructure.
-
+- [PANDA](https://github.com/AaryanRS/PANDA)  
+  🐼 PANDA helps open-source contributors find the right GitHub issue, filter it by difficulty, skill, and effort, and use local Gemma 4 to turn it into a clear, practical engineering plan.
+- [SPARK](https://github.com/AaryanRS/SPARK)  
+  ✨ SPARK is an AI-assisted open-source exploration tool designed to help developers understand GitHub repositories, navigate codebase architecture, explore issues and pull requests, and discover where they can contribute.
 
 ---
 ---
