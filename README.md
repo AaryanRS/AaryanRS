@@ -77,7 +77,6 @@
 Tap any button below to explore the official website of the respective open‑source org 👇
 
 [![Fury](https://img.shields.io/badge/Fury-FF6347?style=for-the-badge&logo=furaffinity&logoColor=000000)](https://fury.gl)
-[![ilastik](https://img.shields.io/badge/ilastik-87CEEB?style=for-the-badge&logo=ilastik&logoColor=000000)](https://www.ilastik.org)
 [![Holoviz](https://img.shields.io/badge/Holoviz-F8F8FF?style=for-the-badge&logo=brain&logoColor=000000)](https://holoviz.org/)
 [![HumanAI](https://img.shields.io/badge/HumanAI-90EE90?style=for-the-badge&logo=brain&logoColor=000000)](https://humanai.foundation)
 
