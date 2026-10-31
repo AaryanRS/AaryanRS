@@ -69,7 +69,8 @@
 ## **`OPEN-SOURCE CONTRIBUTIONS`** 🌿
 
 - [Open-Source Contributions Repo](https://github.com/AaryanRS/open-source-contributions)  
-  A dedicated repository where I document all my open-source work. It includes the open-source programs I’ve contributed to such as **`Fury`**, **`ilastik`**, and **`HumanAI`** — along with the issues I’ve solved, PRs merged, and discussions that helped close Issues.
+  A dedicated repository where I document all my open-source work. It includes the open-source programs I’ve contributed to such as **`Fury`**, **`Holoviz`**, and **`HumanAI`** — along with the issues I’ve solved, PRs merged, and discussions that helped close Issues.
+
   
 
 <div align="center">
@@ -79,6 +80,8 @@ Tap any button below to explore the official website of the respective open‑so
 [![Fury](https://img.shields.io/badge/Fury-FF6347?style=for-the-badge&logo=furaffinity&logoColor=000000)](https://fury.gl)
 [![Holoviz](https://img.shields.io/badge/Holoviz-F8F8FF?style=for-the-badge&logo=brain&logoColor=000000)](https://holoviz.org/)
 [![HumanAI](https://img.shields.io/badge/HumanAI-90EE90?style=for-the-badge&logo=brain&logoColor=000000)](https://humanai.foundation)
+
+`2 PR's Merged` & `2 Issues Solved`
 
 </div>
 
