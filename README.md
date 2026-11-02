@@ -81,7 +81,7 @@ Tap any button below to explore the official website of the respective open‑so
 [![Holoviz](https://img.shields.io/badge/Holoviz-F8F8FF?style=for-the-badge&logo=brain&logoColor=000000)](https://holoviz.org/)
 [![HumanAI](https://img.shields.io/badge/HumanAI-90EE90?style=for-the-badge&logo=brain&logoColor=000000)](https://humanai.foundation)
 
-`2 PR's Merged` & `2 Issues Solved`
+`3 PR's Merged` & `2 Issues Solved`
 
 </div>
 
