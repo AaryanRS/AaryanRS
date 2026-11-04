@@ -55,7 +55,7 @@
 ## **`FEATURED PROJECTS`** 🛠️
 
 - [PANDA](https://github.com/AaryanRS/PANDA)  
-  🐼 PANDA helps open-source contributors find the right GitHub issue, filter it by difficulty, skill, and effort, and use local Gemma 4 to turn it into a clear, practical engineering plan.
+  🐼 PANDA helps open-source contributors find the right GitHub issue, filter it by difficulty, skill, and effort, and use local Gemma 4 to turn it into a clear, practical engineering plan. **_I build This in Hacktoberfest as a Solo and WON 1st Price 🥇_**
 - [SPARK](https://github.com/AaryanRS/SPARK)  
   ✨ SPARK is an AI-assisted open-source exploration tool designed to help developers understand GitHub repositories, navigate codebase architecture, explore issues and pull requests, and discover where they can contribute.
 - [UI_UX_Designs](https://github.com/AaryanRS/UI_UX_Designs)<br>
