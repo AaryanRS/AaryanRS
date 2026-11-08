@@ -10,7 +10,6 @@
 ### **`Languages and Skills`**
 
 ![Python](https://img.shields.io/badge/Python-FFFFF0?style=flat&logo=python&logoColor=000000)
-![C++](https://img.shields.io/badge/C++-FFFFF0?style=flat&logo=cplusplus&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFFF0?style=flat&logo=javascript&logoColor=000000)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FFFFF0?style=flat&logo=openai&logoColor=000000)
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-FFFFF0?style=flat&logo=figma&logoColor=000000)
@@ -30,10 +29,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FFFFF0?style=flat&logo=github&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-FFFFF0?style=flat&logo=git&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-FFFFF0?style=flat&logo=visualstudiocode&logoColor=000000)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-FFFFF0?style=flat&logo=githubcopilot&logoColor=000000)
 ![Codex](https://img.shields.io/badge/Codex-FFFFF0?style=flat&logo=openai&logoColor=000000)
 ![Claude](https://img.shields.io/badge/Claude-FFFFF0?style=flat&logo=anthropic&logoColor=000000)
-![Antigravity](https://img.shields.io/badge/Antigravity-FFFFF0?style=flat&logo=apachespark&logoColor=000000)
 ![Stitch](https://img.shields.io/badge/Stitch-FFFFF0?style=flat&logo=stitcher&logoColor=000000)
 
 ---
@@ -46,8 +43,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFFFF0?style=flat&logo=pytorch&logoColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-FFFFF0?style=flat&logo=flask&logoColor=000000)
 ![React](https://img.shields.io/badge/React-FFFFF0?style=flat&logo=react&logoColor=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFFFF0?style=flat&logo=fastapi&logoColor=000000)
 ![Express.js](https://img.shields.io/badge/Express.js-FFFFF0?style=flat&logo=express&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=flat&logo=node.js&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=flat&logo=node.js&logoColor=000000)<br>
+[![FURY](https://img.shields.io/badge/FURY-D2042D?style=for-the-badge&logoColor=FFFFFF)](https://fury.gl/latest/index.html)
+[![HoloViz](https://img.shields.io/badge/HoloViz-E0FFC2?style=for-the-badge&logoColor=000000&color=E0FFC2)](https://holoviz.org/)
 
 ---
 ---
