@@ -38,7 +38,6 @@
 ### **`Frameworks and Libraries`**
 
 ![NumPy](https://img.shields.io/badge/NumPy-FFFFF0?style=flat&logo=numpy&logoColor=000000)
-![SymPy](https://img.shields.io/badge/SymPy-FFFFF0?style=flat&logo=sympy&logoColor=000000)
 ![Pandas](https://img.shields.io/badge/Pandas-FFFFF0?style=flat&logo=pandas&logoColor=000000)
 ![PyTorch](https://img.shields.io/badge/PyTorch-FFFFF0?style=flat&logo=pytorch&logoColor=000000)
 ![Flask](https://img.shields.io/badge/Flask-FFFFF0?style=flat&logo=flask&logoColor=000000)
@@ -48,15 +47,16 @@
 ![Node.js](https://img.shields.io/badge/Node.js-FFFFF0?style=flat&logo=node.js&logoColor=000000)<br>
 [![FURY](https://img.shields.io/badge/FURY-D2042D?style=for-the-badge&logoColor=FFFFFF)](https://fury.gl/latest/index.html)
 [![HoloViz](https://img.shields.io/badge/HoloViz-E0FFC2?style=for-the-badge&logoColor=000000&color=E0FFC2)](https://holoviz.org/)
+[![SymPy](https://img.shields.io/badge/SymPy-890149?style=for-the-badge&color=890149)](https://www.sympy.org/)
 
 ---
 ---
 
 ## **`FEATURED PROJECTS`** 🛠️
 
-- [PANDA](https://github.com/AaryanRS/PANDA)  
-  🐼 PANDA helps open-source contributors find the right GitHub issue, filter it by difficulty, skill, and effort, and use local Gemma 4 to turn it into a clear, practical engineering plan. **_`I build This in Hacktoberfest as a Solo and WON 1st Price 🥇`_**
-- [SPARK](https://github.com/AaryanRS/SPARK)  
+- [PANDA](https://github.com/AaryanRS/PANDA)  🥇 <br>
+  🐼 PANDA helps open-source contributors find the right GitHub issue, filter it by difficulty, skill, and effort, and use local Gemma 4 to turn it into a clear, practical engineering plan. <kbd><strong>🏆 I build This in Hacktoberfest as a Solo and WON 1st Prize 🥇</strong></kbd>
+- [SPARK](https://github.com/AaryanRS/SPARK) <br>
   ✨ SPARK is an AI-assisted open-source exploration tool designed to help developers understand GitHub repositories, navigate codebase architecture, explore issues and pull requests, and discover where they can contribute.
 - [UI_UX_Designs](https://github.com/AaryanRS/UI_UX_Designs)<br>
   🎨 A UI/UX Design Repo where I upload Top Tier UI Designs build Using Prompt Engineering, Do checkout some Designs, Maybe u can use them for your next Project.
