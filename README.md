@@ -26,8 +26,6 @@
 
 ### **`Tools Mastery`**
 
-![GitHub](https://img.shields.io/badge/GitHub-FFFFF0?style=flat&logo=github&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-FFFFF0?style=flat&logo=git&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-FFFFF0?style=flat&logo=visualstudiocode&logoColor=000000)
 ![Codex](https://img.shields.io/badge/Codex-FFFFF0?style=flat&logo=openai&logoColor=000000)
 ![Claude](https://img.shields.io/badge/Claude-FFFFF0?style=flat&logo=anthropic&logoColor=000000)
